@@ -1,4 +1,3 @@
-# GuessWhoMink
 # Maryah Greene — Guess Who API
 
 A REST API powered by Claude AI that answers questions about Maryah for a Guess Who game.
